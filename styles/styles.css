@@ -20,11 +20,11 @@ body {
     margin-right: 230px;
     padding-top: 215px;
     margin-bottom: 0;
-    
+
 }
 
 .para {
-    
+
     margin-right: 230px;
     text-align: right;
     color: #444343;
@@ -50,4 +50,44 @@ body {
 .gradiant1 {
     width: 1600px;
     height: 808px;
+}
+
+/* main part */
+.main {
+    margin-left: 205px;
+}
+
+.ihp {
+    display: flex
+}
+
+.img {
+    margin-right: 85px;
+    margin-top: 130px;
+}
+
+h3 {
+    margin-top: 370px;
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 450px;
+}
+
+.mp {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
+}
+
+.ul {
+    margin-top: 0;
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    /* 162.5% */
 }
